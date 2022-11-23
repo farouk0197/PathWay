@@ -37,7 +37,7 @@ ___
 
 
 ### 😊 Our Solution
-Erase this line 
+PathWay allows high school graduates to view a variety of options, such as trade schools, workforce development programs, and nonprofits. Depending on the career choice of our graduates, we provide them with a roadmap specific to their field of interest. Obtaining a mentor will be a part of the process, which will provide them with more support. We open the door for recent graduates to live chat with people in their desired career path for testimonies, and interview preparation for their desired field and pair them with those people as mentors to further help guide them along their path as interviewing can be challenging for recent grads. 
 ___
 
 
